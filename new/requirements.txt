@@ -1,0 +1,4 @@
+django
+gnicorn
+django-heroku
+django-crispy-forms
